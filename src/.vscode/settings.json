@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "demo.h": "c",
+        "vector": "cpp",
+        "deque": "cpp"
+    }
+}
